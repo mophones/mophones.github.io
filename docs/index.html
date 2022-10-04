@@ -46,9 +46,12 @@ hr {
   width: 40%;
 }
 
-@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+@media only screen and (max-width: 480px) {
   .bgimg {
-    background-image: url(screenmobile.png)
+    background-image: url(screenmobile.png);
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
   }
 }
 
