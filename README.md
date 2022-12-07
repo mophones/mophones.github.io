@@ -1,2 +1,2 @@
 # mophones.co
-Website
+Website - coming soon page
